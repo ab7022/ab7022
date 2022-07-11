@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ab7022
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me at bayees1@gmail.com
 
