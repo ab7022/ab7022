@@ -28,8 +28,8 @@ Hello! 👋 I'm Abdul Bayees, a passionate learner in the field of software deve
 - 💡 Contribute to open-source projects
 
 ## Get in Touch
-- ✉️ Email: your-email@example.com
-- 💼 LinkedIn: [Abdul Bayees](https://www.linkedin.com/in/abdulbayees)
-- 🐙 GitHub: [abdulbayees](https://github.com/abdulbayees)
+- ✉️ Email: bayees1@gmail.com
+- 💼 LinkedIn: [Abdul Bayees]([https://www.linkedin.com/in/abdulbayees](https://www.linkedin.com/in/abdul-bayees-2941b6202/))
+- 🐙 GitHub: [abdulbayees](https://github.com/ab7022dulbayees)
 
 Let's connect and make a positive impact through technology! 🚀
