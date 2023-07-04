@@ -29,7 +29,7 @@ Hello! 👋 I'm Abdul Bayees, a passionate learner in the field of software deve
 
 ## Get in Touch
 - ✉️ Email: bayees1@gmail.com
-- 💼 LinkedIn: [Abdul Bayees]([https://www.linkedin.com/in/abdulbayees](https://www.linkedin.com/in/abdul-bayees-2941b6202/))
-- 🐙 GitHub: [abdulbayees](https://github.com/ab7022dulbayees)
+- 💼 LinkedIn: [Abdul Bayees](https://www.linkedin.com/in/abdul-bayees-2941b6202/)
+- 🐙 GitHub: [Abdulbayees](https://github.com/ab7022dulbayees)
 
 Let's connect and make a positive impact through technology! 🚀
