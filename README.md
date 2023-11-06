@@ -8,7 +8,7 @@ Hello! 👋 I'm Abdul Bayees, a passionate learner in the field of software deve
 ## Background
 🎓 I'm a 2nd year Bachelor of Computer Application (BCA) student, specializing in computer science and programming. 
 ## skills
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,nodejs,c,java,python,photoshop&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,nodejs,mongodb,react,git,github,c,java,python,photoshop&theme=light)](https://skills.thijs.gg)
 
  # ![abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ab7022&show_icons=true)
  # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ab7022&layout=compact)
