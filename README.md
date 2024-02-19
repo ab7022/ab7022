@@ -2,7 +2,6 @@
 
 ## Introduction
 Hello! 👋 I'm Abdul Bayees, a passionate learner in the field of software development. I love coding and solving real-world problems. Currently, I'm deep diving into JavaScript 🚀, building upon my knowledge of HTML and CSS. My ultimate goal is to become a skilled full-stack developer.
-[![An image of @ab7022's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ab7022)](https://holopin.io/@ab7022)
 
 
 ## Background
