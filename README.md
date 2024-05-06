@@ -1,7 +1,7 @@
 # Abdul Bayees
 
 ## Introduction
-Hello! 👋 I'm Abdul Bayees, a passionate learner in the field of software development. I love coding and solving real-world problems. Currently, I'm deep diving into JavaScript 🚀, building upon my knowledge of HTML and CSS. My ultimate goal is to become a skilled full-stack developer.
+Hello! 👋 I'm Abdul Bayees, a passionate learner in the field of software development. I love coding and solving real-world problems. Currently, I'm deep diving into Typescript 🚀. My ultimate goal is to become a skilled full-stack developer.
 
 
 ## Background
@@ -16,15 +16,15 @@ Hello! 👋 I'm Abdul Bayees, a passionate learner in the field of software deve
 ## Interests
 - 💻 Coding and problem-solving
 - 🌍 Building solutions for real-world problems
-- 🌐 Web development using HTML, CSS, and JavaScript, Nodejs, MongoDb, expressjs.
+- 🌐 Web development using React, Nodejs, MongoDb, Mysql, Prisma , Tailwindcss, expressjs, Nextjs, Typescript , Docker
 - 🔍 Exploring new technologies
 - 📚 Continuous learning and personal growth
 - currently learning React
 
 
 ## Future Goals
-- 📚 Master JavaScript and its frameworks/libraries
-- 🖥️ Backend development using Java or Python
+- 📚 Solve daily problems by building products
+- 🖥️ Backend development using Python or Javascript
 - 🌐 Build robust web applications
 - 🗃️ Expand knowledge in database management systems
 - 💡 Contribute to open-source projects
