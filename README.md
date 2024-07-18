@@ -1,11 +1,11 @@
 # Abdul Bayees
 
 ## Introduction
-Hello! 👋 I'm Abdul Bayees, a passionate learner in the field of software development. I love coding and solving real-world problems. Currently, I'm deep diving into Typescript 🚀. My ultimate goal is to become a skilled full-stack developer.
+Hello! 👋 I'm Abdul Bayees, a passionate learner in the field of software development. I love coding and solving real-world problems. Currently, I'm deep diving into Nextjs 🚀. My ultimate goal is to become a full-stack developer.
 
 
 ## Background
-🎓 I'm a 2nd year Bachelor of Computer Application (BCA) student, specializing in computer science and programming. 
+🎓 I'm a final year Bachelor of Computer Application (BCA) student, specializing in computer science and programming. 
 ## skills
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,nodejs,mongodb,react,git,github,c,java,python,photoshop&theme=light)](https://skills.thijs.gg)
 
@@ -20,14 +20,6 @@ Hello! 👋 I'm Abdul Bayees, a passionate learner in the field of software deve
 - 🔍 Exploring new technologies
 - 📚 Continuous learning and personal growth
 - currently learning React
-
-
-## Future Goals
-- 📚 Solve daily problems by building products
-- 🖥️ Backend development using Python or Javascript
-- 🌐 Build robust web applications
-- 🗃️ Expand knowledge in database management systems
-- 💡 Contribute to open-source projects
 
 ## Get in Touch
 - ✉️ Email: bayees1@gmail.com
