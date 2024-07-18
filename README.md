@@ -19,7 +19,7 @@ Hello! 👋 I'm Abdul Bayees, a passionate learner in the field of software deve
 - 🌐 Web development using React, Nodejs, MongoDb, Mysql, Prisma , Tailwindcss, expressjs, Nextjs, Typescript , Docker
 - 🔍 Exploring new technologies
 - 📚 Continuous learning and personal growth
-- currently learning React
+-   currently learning Nextjs
 
 ## Get in Touch
 - ✉️ Email: bayees1@gmail.com
