@@ -32,16 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ab7022&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-
-
----
-
-## 🎯 Goals for 2024:
-- Contribute to more open-source projects
-- Build more projects using Nextjs and React-Native
-
 ---
 
 ## 📫 How to reach me:
-Feel free to reach out through [LinkedIn](https://linkedin.com/in/abdulbayees) or [Instagram](https://instagram.com/abdul__bayees)!
+Feel free to reach out through [LinkedIn](https://linkedin.com/in/abdulbayees) or [Email](mailto:bayees1@gmail.com)!
