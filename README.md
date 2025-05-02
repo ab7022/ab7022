@@ -2,7 +2,7 @@
 ### A passionate Full Stack Developer
 
 ### 💬 Ask me about Web Dev and App Dev
-## Building [Eazyfolio](https://eazyfolio.com)
+## Building [Devlop.app](https://devlop.app)
 
 ---
 
