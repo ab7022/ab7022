@@ -1,73 +1,146 @@
-## Hey there, I'm Abdul Bayees 👋
-### A passionate Full Stack Developer
+<!-- banner -->
 
-### 💬 Ask me about Web Dev and App Dev
-## Building [Devlop.app](https://devlop.app)
+<p align="center">
+  <img src="https://img.shields.io/badge/Full-Stack_Developer-blue?style=for-the-badge&logo=dev&logoColor=white" alt="Developer Badge" />
+</p>
+
+# 👋 Hey there, I'm Abdul Bayees
+
+### A Passionate Full Stack Developer & AI Enthusiast
+
+> Crafting beautiful experiences on web and mobile with clean code & scalable architecture.
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdul__bayees) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulbayees)
+## 🔭 Currently Building
+
+* 🌐 [**Devlop.app**](https://devlop.app) — No-code AI-powered app builder
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdulbayees"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/abdul__bayees"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:bayees1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+      <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ab7022&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-### 🚀 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 
-![React-Native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react-native&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<details>
+<summary>🚀 Frontend & UI</summary>
 
-### 🔧 Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+| Language / Framework | Library / Tool                 |
+| -------------------- | ------------------------------ |
+| ![HTML5][html5]      | ![React][react]                |
+| ![CSS3][css3]        | ![Next.js][nextjs]             |
+| ![JavaScript][js]    | ![Tailwind][tailwindcss]       |
+| ![TypeScript][ts]    | ![Framer Motion][framermotion] |
+|                      | ![Radix UI][radixui]           |
+|                      | ![Storybook][storybook]        |
 
-### 🧠 Programming Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+</details>
 
-### 🛢️ Databases & ORM
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/PostgreSQL-%233C54A1.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+<details>
+<summary>🔧 Backend & APIs</summary>
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+| Runtime / Framework | API / Protocol             |
+| ------------------- | -------------------------- |
+| ![Node.js][nodejs]  | ![GraphQL][graphql]        |
+| ![Express][express] | ![REST][rest]              |
+| ![NestJS][nestjs]   | ![tRPC][trpc]              |
+|                     | ![Socket.IO][socketio]     |
+|                     | ![Passport.js][passportjs] |
 
-### 🛠️ Tools & Concepts
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+</details>
 
-> 💡 **Other Skills**: WebRTC, REST APIs, OAuth 2.0, Data Structures & Algorithms, Web Security Basics, Agile Methodologies
-"""
+<details>
+<summary>🛢️ Databases & ORM</summary>
+
+| Database                | ORM / Cache         |
+| ----------------------- | ------------------- |
+| ![PostgreSQL][postgres] | ![Prisma][prisma]   |
+| ![MongoDB][mongodb]     | ![TypeORM][typeorm] |
+| ![Redis][redis]         | ![BullMQ][bull]     |
+
+</details>
+
+<details>
+<summary>☁️ Cloud, DevOps & Testing</summary>
+
+| Cloud / CI/CD       | Tools / Monitoring      |
+| ------------------- | ----------------------- |
+| ![AWS][aws]         | ![Docker][docker]       |
+| ![Vercel][vercel]   | ![GitHub Actions][gha]  |
+| ![Netlify][netlify] | ![Terraform][terraform] |
+|                     | ![Jest][jest]           |
+|                     | ![Cypress][cypress]     |
+
+</details>
+
+> 💡 **Concepts & Patterns:** Clean Architecture • Component-Driven Design • SSR/SSG • CI/CD • Testing • Security • Performance Optimization
+
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ab7022&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ab7022&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ab7022&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 📈 GitHub Highlights
 
+<p align="center">
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ab7022&theme=onestar&noFrame=true&row=1&column=3" alt="GitHub Trophy" />
+
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ab7022&theme=react" alt="Contribution Graph" />
+</p>
 
 ---
 
-## 📫 How to reach me:
-Feel free to reach out through [LinkedIn](https://linkedin.com/in/abdulbayees) or [Email](mailto:bayees1@gmail.com)!
+## 📫 How to Reach Me
+
+<p align="center">
+  <a href="mailto:bayees1@gmail.com">✉️ bayees1@gmail.com</a> • 
+  <a href="https://linkedin.com/in/abdulbayees">🔗 LinkedIn</a> • 
+  <a href="https://devlop.app">🌐 Portfolio</a>
+</p>
+
+<!-- FOOTER BADGES -->
+
+[html5]: https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[css3]: https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[js]: https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[ts]: https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+[react]: https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white
+[nextjs]: https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white
+[tailwindcss]: https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white
+[framermotion]: https://img.shields.io/badge/Framer%20Motion-FF0050?style=for-the-badge&logo=framer&logoColor=white
+[radixui]: https://img.shields.io/badge/Radix%20UI-FFFFFF?style=for-the-badge&logo=radix-ui&logoColor=black
+[storybook]: https://img.shields.io/badge/Storybook-%23FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white
+[nodejs]: https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[express]: https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white
+[graphql]: https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white
+[rest]: https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=rest&logoColor=white
+[nestjs]: https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
+[trpc]: https://img.shields.io/badge/tRPC-000000?style=for-the-badge&logo=trpc&logoColor=white
+[socketio]: https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&logoColor=white
+[passportjs]: https://img.shields.io/badge/Passport.js-000000?style=for-the-badge&logo=passport&logoColor=white
+[postgres]: https://img.shields.io/badge/PostgreSQL-%233C54A1.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[prisma]: https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white
+[mongodb]: https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[typeorm]: https://img.shields.io/badge/TypeORM-000000?style=for-the-badge&logo=typeorm&logoColor=white
+[redis]: https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white
+[bull]: https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=bullmq&logoColor=white
+[aws]: https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+[docker]: https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white
+[vercel]: https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white
+[netlify]: https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=%2300C7B7
+[gha]: https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
+[terraform]: https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white
+[jest]: https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white
+[cypress]: https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white
