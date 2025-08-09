@@ -107,7 +107,7 @@
 <p align="center">
   <a href="mailto:bayees1@gmail.com">✉️ bayees1@gmail.com</a> • 
   <a href="https://linkedin.com/in/abdulbayees">🔗 LinkedIn</a> • 
-  <a href="https://devlop.app">🌐 Portfolio</a>
+  <a href="https://abdulbayees.me">🌐 Portfolio</a>
 </p>
 
 <!-- FOOTER BADGES -->
